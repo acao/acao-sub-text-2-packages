@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>posix.mkdir(${1:'${2:path}'}, ${3:'${4:mode}'})${5:.addCallback(function() {
+	$0
+\})};
+</string>
+	<key>name</key>
+	<string>mkdir</string>
+	<key>scope</key>
+	<string>source.js.node</string>
+	<key>tabTrigger</key>
+	<string>rmdir</string>
+	<key>uuid</key>
+	<string>D63101FB-D494-44CD-BE60-F26F68FF6BE3</string>
+</dict>
+</plist>

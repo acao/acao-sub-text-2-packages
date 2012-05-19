@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;p&gt;The view of the Earth from the Moon fascinated me—a small disk, 240,000 miles away. It was hard to think that that little thing held so many problems, so many frustrations. Raging nationalistic interests, famines, wars, pestilence don't show from that distance.&lt;/p&gt;</string>
+	<key>name</key>
+	<string>Short Paragraph</string>
+	<key>tabTrigger</key>
+	<string>space</string>
+	<key>uuid</key>
+	<string>72C981FC-A722-4391-8A5F-A3A532606386</string>
+</dict>
+</plist>

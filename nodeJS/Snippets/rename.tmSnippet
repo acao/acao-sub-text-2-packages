@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>posix.rename(${1:'${2:from}'}, ${3:'${4:to}'})${5:.addCallback(function() {
+	$0
+\})};
+</string>
+	<key>name</key>
+	<string>rename</string>
+	<key>scope</key>
+	<string>source.js.node</string>
+	<key>tabTrigger</key>
+	<string>ren</string>
+	<key>uuid</key>
+	<string>0D22ED48-FA6C-4B12-ADE8-9A40A556DFCA</string>
+</dict>
+</plist>

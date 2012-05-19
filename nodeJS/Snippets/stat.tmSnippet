@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>posix.stat(${1:'${2:path}'}).addCallback(function(stats) {
+	${10:sys.puts("stats: " + JSON.stringify(stats));}$0
+});
+</string>
+	<key>name</key>
+	<string>stat</string>
+	<key>scope</key>
+	<string>source.js.node</string>
+	<key>tabTrigger</key>
+	<string>stat</string>
+	<key>uuid</key>
+	<string>F430F77A-4D98-4D2D-B816-87B963A61717</string>
+</dict>
+</plist>
