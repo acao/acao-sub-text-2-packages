@@ -1,0 +1,3 @@
+[submodule "LESS.tmbundle"]
+	path = LESS.tmbundle
+	url = git://github.com/creationix/LESS.tmbundle.git
