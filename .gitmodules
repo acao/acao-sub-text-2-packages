@@ -1,3 +1,15 @@
 [submodule "LESS.tmbundle"]
 	path = LESS.tmbundle
 	url = git://github.com/creationix/LESS.tmbundle.git
+[submodule "jade-tmbundle"]
+	path = jade-tmbundle
+	url = git://github.com/miksago/jade-tmbundle.git
+[submodule "ejs-tmbundle"]
+	path = ejs-tmbundle
+	url = git://github.com/gregory-m/ejs-tmbundle.git
+[submodule "Prospettiva-Theme"]
+	path = Prospettiva-Theme
+	url = git://github.com/mattsanders/Prospettiva-Theme.git
+[submodule "coda-textMate-theme"]
+	path = coda-textMate-theme
+	url = git://github.com/chriskempson/coda-textMate-theme.git
