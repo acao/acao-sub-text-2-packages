@@ -13,3 +13,9 @@
 [submodule "coda-textMate-theme"]
 	path = coda-textMate-theme
 	url = git://github.com/chriskempson/coda-textMate-theme.git
+[submodule "BufferScroll"]
+	path = BufferScroll
+	url = git://github.com/titoBouzout/BufferScroll.git
+[submodule "Jade"]
+	path = Jade
+	url = git://github.com/miksago/jade-tmbundle.git
